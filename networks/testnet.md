@@ -1,5 +1,5 @@
 ---
-outline: [2, 4]
+esquema: [2, 4]
 ---
 # Codex Testnet
 
